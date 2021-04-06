@@ -265,6 +265,10 @@ This should return `"5 laptops"`. If you switch the 5 to a 1, it will return `"1
 close the session, run the command `control + d` and it will return you to the
 regular terminal session.
 
+## Rails Localhost Console
+![Rails MacOS](blog-flash/2021-04-06_10-31-06.png)
+
+
 Why are we using the `rails console` instead of just starting an IRB session?
 That's a great question. Try running the same `pluralize` method in an IRB
 session and you'll see the following error: `` NameError: undefined local variable or method `helper` for main:Object ``. The reason for the error is that
@@ -274,3 +278,6 @@ environment, which provides access to Rails's specific methods (along with the
 full application database). Don't worry if the idea of using the console is
 still fuzzy –– we'll be using it constantly in future lessons, and it will soon
 become second nature.
+
+## Rails Localhost Console
+![Rails MacOS](blog-flash/2021-04-06_10-37-09.png)
