@@ -223,6 +223,9 @@ properly in the browser by navigating to `http://localhost:3000/`.
 Here you will see the 'Yay! You're on Rails!' page that ships with Rails. It
 shows that we're ready to start building the application!
 
+## My Local Rails Server
+![Rails MacOS](blog-flash/2021-04-06_10-17-50.png)
+
 In order to **shutdown** your server, you will need to hit the button
 combination `CTRL+C`.
 
